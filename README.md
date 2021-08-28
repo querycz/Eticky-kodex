@@ -10,16 +10,16 @@ Kodex Query pomáhá v řešení obtížných dilemat, se kterými se můžeme s
 
 Query se řídí etickými pravidly ve vztahu ke všem našim partnerům i klientům.
 
-Transparentnost – všem zúčastněným stranám poskytujeme vždy maximum relevantních informací.
-Diskrétnost – materiály a informace, které jsou nám svěřeny, nikdy neposkytneme třetím stranám bez předchozího souhlasu subjektu, kterého se informace týkají.
+* Transparentnost – všem zúčastněným stranám poskytujeme vždy maximum relevantních informací.
+* Diskrétnost – materiály a informace, které jsou nám svěřeny, nikdy neposkytneme třetím stranám bez předchozího souhlasu subjektu, kterého se informace týkají.
 Kompetence – znalost specifik odvětví a regionů je pro nás samozřejmostí.
 Důvěra – mezi pracovníkem Query a klientem, eventuálně partnerem má důvěra pro nás zásadní význam. Náš cíl je vybudovat osobní vztah vzájemné důvěry a otevřenosti.
 Imunita klienta – klientem poskytnuté údaje nebudou zneužity.
 Osobní přístup – vždy volíme osobní a adresnou komunikaci s klienty i partnery, snažíme se poskytovat informace přesné, úplné a konkrétní.
-Etický kodex je základním popisem etických norem, na jejichž respektování stojí naše filozofie.
 
-Každý, kdo pracuje pro Query je povinen dodržovat zákony země, ve které vykonává svoji práci. Je také povinen chovat se čestně a v souladu s morálními a kulturními principy, obecně uznávanými v místě, kde se právě nachází.
-Každý, kdo pracuje pro Query, je povinen respektovat své nadřízené i kolegy a dodržovat zásady vzájemné důvěry a spolupráce. Každý zaměstnanec Query si musí být vědom, že i svým osobním vystupováním navenek reprezentuje firmu.
+Etický kodex je základním popisem etických norem, na jejichž respektování stojí naše filozofie.
+1. Každý, kdo pracuje pro Query je povinen dodržovat zákony země, ve které vykonává svoji práci. Je také povinen chovat se čestně a v souladu s morálními a kulturními principy, obecně uznávanými v místě, kde se právě nachází.
+1. Každý, kdo pracuje pro Query, je povinen respektovat své nadřízené i kolegy a dodržovat zásady vzájemné důvěry a spolupráce. Každý zaměstnanec Query si musí být vědom, že i svým osobním vystupováním navenek reprezentuje firmu.
 Při práci je třeba stále pamatovat na to, že zákazník je zpravidla na prvním místě a jeho spokojenost je velmi důležitá.
 Zákazník má za všech okolností, reklamační řízení nevyjímaje, nárok na slušný a příjemný přístup. Není přípustné jakékoliv omezování zákaznických práv z důvodu zákazníkovy národnosti, sociálního postavení apod.
 Pokud oprávněný pracovník není schopen vyřešit zákazníkův požadavek, musí o tom neprodleně informovat svého nadřízeného.
