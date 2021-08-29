@@ -10,12 +10,12 @@ Kodex Query pomáhá v řešení obtížných dilemat, se kterými se můžeme s
 
 Query se řídí etickými pravidly ve vztahu ke všem našim partnerům i klientům.
 
-- Transparentnost – všem zúčastněným stranám poskytujeme vždy maximum relevantních informací.
-- Diskrétnost – materiály a informace, které jsou nám svěřeny, nikdy neposkytneme třetím stranám bez předchozího souhlasu subjektu, kterého se informace týkají.
-- Kompetence – znalost specifik odvětví a regionů je pro nás samozřejmostí.
-- Důvěra – mezi pracovníkem Query a klientem, eventuálně partnerem má důvěra pro nás zásadní význam. Náš cíl je vybudovat osobní vztah vzájemné důvěry a otevřenosti.
-- Imunita klienta – klientem poskytnuté údaje nebudou zneužity.
-- Osobní přístup – vždy volíme osobní a adresnou komunikaci s klienty i partnery, snažíme se poskytovat informace přesné, úplné a konkrétní.
+- **Transparentnost** – všem zúčastněným stranám poskytujeme vždy maximum relevantních informací.
+- **Diskrétnost** – materiály a informace, které jsou nám svěřeny, nikdy neposkytneme třetím stranám bez předchozího souhlasu subjektu, kterého se informace týkají.
+- **Kompetence** – znalost specifik odvětví a regionů je pro nás samozřejmostí.
+- **Důvěra** – mezi pracovníkem Query a klientem, eventuálně partnerem má důvěra pro nás zásadní význam. Náš cíl je vybudovat osobní vztah vzájemné důvěry a otevřenosti.
+- **Imunita klienta** – klientem poskytnuté údaje nebudou zneužity.
+- **Osobní přístup** – vždy volíme osobní a adresnou komunikaci s klienty i partnery, snažíme se poskytovat informace přesné, úplné a konkrétní.
 
 Etický kodex je základním popisem etických norem, na jejichž respektování stojí naše filozofie.
 1. Každý, kdo pracuje pro Query je povinen dodržovat zákony země, ve které vykonává svoji práci. Je také povinen chovat se čestně a v souladu s morálními a kulturními principy, obecně uznávanými v místě, kde se právě nachází.
