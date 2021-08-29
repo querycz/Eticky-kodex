@@ -20,14 +20,14 @@ Osobní přístup – vždy volíme osobní a adresnou komunikaci s klienty i pa
 Etický kodex je základním popisem etických norem, na jejichž respektování stojí naše filozofie.
 1. Každý, kdo pracuje pro Query je povinen dodržovat zákony země, ve které vykonává svoji práci. Je také povinen chovat se čestně a v souladu s morálními a kulturními principy, obecně uznávanými v místě, kde se právě nachází.
 1. Každý, kdo pracuje pro Query, je povinen respektovat své nadřízené i kolegy a dodržovat zásady vzájemné důvěry a spolupráce. Každý zaměstnanec Query si musí být vědom, že i svým osobním vystupováním navenek reprezentuje firmu.
-Při práci je třeba stále pamatovat na to, že zákazník je zpravidla na prvním místě a jeho spokojenost je velmi důležitá.
-Zákazník má za všech okolností, reklamační řízení nevyjímaje, nárok na slušný a příjemný přístup. Není přípustné jakékoliv omezování zákaznických práv z důvodu zákazníkovy národnosti, sociálního postavení apod.
-Pokud oprávněný pracovník není schopen vyřešit zákazníkův požadavek, musí o tom neprodleně informovat svého nadřízeného.
-Vždy je třeba mít na paměti, že Query je společností, která musí přinášet co nejlepší výsledky pro své partnery a klienty, a dobrá pověst je základem našeho úspěchu.
-Je nutné respektovat závazek mlčenlivosti.
-Každý, kdo pracuje pro Query je povinen počínat si při své práci tak, aby chránil oprávněné zájmy zaměstnavatele a zároveň chránil životní prostředí. Závazky, pokud nejsou v rozporu se zákony nebo obecně uznávanými morálními principy dané země, musí být řádně a včas plněny.
-Je zakázáno zneužívat postavení v Query pro své osobní zájmy nebo zájmy třetích osob, zneužívat informací, věcí, zařízení Query pro svoji soukromou potřebu.
+1. Při práci je třeba stále pamatovat na to, že zákazník je zpravidla na prvním místě a jeho spokojenost je velmi důležitá.
+1. Zákazník má za všech okolností, reklamační řízení nevyjímaje, nárok na slušný a příjemný přístup. Není přípustné jakékoliv omezování zákaznických práv z důvodu zákazníkovy národnosti, sociálního postavení apod.
+1. Pokud oprávněný pracovník není schopen vyřešit zákazníkův požadavek, musí o tom neprodleně informovat svého nadřízeného.
+1. Vždy je třeba mít na paměti, že Query je společností, která musí přinášet co nejlepší výsledky pro své partnery a klienty, a dobrá pověst je základem našeho úspěchu.
+1. Je nutné respektovat závazek mlčenlivosti.
+1. Každý, kdo pracuje pro Query je povinen počínat si při své práci tak, aby chránil oprávněné zájmy zaměstnavatele a zároveň chránil životní prostředí. Závazky, pokud nejsou v rozporu se zákony nebo obecně uznávanými morálními principy dané země, musí být řádně a včas plněny.
+1. Je zakázáno zneužívat postavení v Query pro své osobní zájmy nebo zájmy třetích osob, zneužívat informací, věcí, zařízení Query pro svoji soukromou potřebu.
 Každý zaměstnanec i externí spolupracovník musí udržovat své pracovní místo v čistotě, pokud je pracoviště v nepořádku je taktéž pokládáno za slušné postarat se o úklid pracoviště.
-Zaměstnanci i externí spolupracovníci jsou tolerantní vůči svým kolegům a navzájem se respektují.
-Pokud se zaměstnanec nebo externí spolupracovník ocitne v situaci, kterou nedokáže vyřešit sám, musí obeznámit svého nadřízeného, popř. jednatele společnosti Query.
-Tyto zásady jsou závazné pro všechny zaměstnance Query i ostatní osoby, které pro Query pracují, a to od okamžiku, kdy se s nimi seznámili nebo seznámit měli.
+1. Zaměstnanci i externí spolupracovníci jsou tolerantní vůči svým kolegům a navzájem se respektují.
+1. Pokud se zaměstnanec nebo externí spolupracovník ocitne v situaci, kterou nedokáže vyřešit sám, musí obeznámit svého nadřízeného, popř. jednatele společnosti Query.
+1. Tyto zásady jsou závazné pro všechny zaměstnance Query i ostatní osoby, které pro Query pracují, a to od okamžiku, kdy se s nimi seznámili nebo seznámit měli.
