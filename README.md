@@ -1,4 +1,4 @@
-# Etický kodex
+# Etický kodex 👨‍💻
 
 _Poslední aktualizace: 20. 4. 2016_
 
